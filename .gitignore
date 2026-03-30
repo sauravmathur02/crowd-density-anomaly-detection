@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+crowd_env/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Large local data
+data/
+datasets/
+frames/
+gun_dataset/
+merged_dataset/
+assets/combined_yolo_dataset/
+
+# Training / inference outputs
+outputs/
+runs/
+project/outputs/
+project/runs/
+project/classifier_data/
+
+# Model artifacts
+weights/
+models/
+*.pt
+*.pth
+project/models/*.pt
+project/models/*.pth
+
+# Media
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Temporary / reports
+*.tmp
+*.temp
+merge_log.txt
+dataset_structure_report.txt
+You are a senior AIML systems engin.txt
