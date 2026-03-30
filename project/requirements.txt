@@ -1,0 +1,11 @@
+streamlit
+ultralytics
+opencv-python
+torch
+torchvision
+numpy
+Pillow
+fastapi
+uvicorn
+python-multipart
+PyYAML
