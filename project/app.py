@@ -35,7 +35,7 @@ class FeedSession:
     processor: FeedProcessor
 
 
-st.set_page_config(page_title="AI Surveillance Command Center", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="SentinelVision Command Center", layout="wide", initial_sidebar_state="expanded")
 
 
 @st.cache_resource
@@ -295,7 +295,7 @@ def update_fps(fps_state: Dict[str, Dict[str, float]], source_id: str, now_ts: f
 
 inject_styles()
 st.markdown(
-    "<div class='hero'><h1>AI Surveillance Command Center</h1><p>Modern live dashboard for annotated video, crowd intelligence, weapon alerts, confidence tracking, and event awareness.</p></div>",
+    "<div class='hero'><h1>SentinelVision Command Center</h1><p>Modern live dashboard for annotated video, crowd intelligence, weapon alerts, confidence tracking, and event awareness.</p></div>",
     unsafe_allow_html=True,
 )
 

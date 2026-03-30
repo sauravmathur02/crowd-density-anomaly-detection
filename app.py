@@ -38,7 +38,7 @@ def standardize_frame(frame, target_width=STANDARD_FRAME_WIDTH, target_height=ST
     return canvas
 
 # Configure Page Layout
-st.set_page_config(page_title="Crowd & Anomaly Dashboard", page_icon="🚨", layout="wide")
+st.set_page_config(page_title="SentinelVision Research Console", page_icon="🚨", layout="wide")
 
 st.markdown("""
 <style>
@@ -80,7 +80,7 @@ details > summary::-webkit-details-marker { display: none; }
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🛡️ Intelligent Surveillance Research Engine")
+st.title("🛡️ SentinelVision Research Console")
 
 @st.cache_resource
 def load_yolo_model(yolo_path):

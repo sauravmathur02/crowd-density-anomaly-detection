@@ -1,8 +1,12 @@
 # GitHub Repository Settings
 
+## Recommended Repository Name
+
+- `sentinelvision-ai-surveillance`
+
 ## Recommended Repository Description
 
-Production-ready AI surveillance system for crowd monitoring, weapon detection, gun-vs-knife classification, alerting, and real-time dashboard analytics using YOLOv8, MobileNetV3, ByteTrack, Streamlit, and FastAPI.
+SentinelVision AI Surveillance Platform for crowd monitoring, weapon detection, gun-vs-knife classification, alerting, and real-time dashboard analytics using YOLOv8, MobileNetV3, ByteTrack, Streamlit, and FastAPI.
 
 ## Recommended Website
 
@@ -31,5 +35,4 @@ Use:
 
 ## Recommended Short About Line
 
-AI-powered surveillance dashboard for crowd monitoring, weapon detection, event logging, and real-time risk alerting.
-
+SentinelVision AI for crowd monitoring, weapon detection, event logging, and real-time risk alerting.

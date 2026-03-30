@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parent
 CONFIG_PATH = ROOT / "config.yaml"
 runtime = RuntimeFactory(ROOT, CONFIG_PATH)
 
-app = FastAPI(title="Production Surveillance API", version="1.0.0")
+app = FastAPI(title="SentinelVision Surveillance API", version="1.0.0")
 
 
 @app.get("/health")

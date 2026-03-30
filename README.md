@@ -1,4 +1,4 @@
-# AI-Based Crowd Monitoring and Weapon Detection System
+# SentinelVision AI Surveillance Platform
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
@@ -82,7 +82,7 @@ The production-ready application lives in [`project/`](./project).
 ## Repository Structure
 
 ```text
-Crowd and Anomaly Detection/
+sentinelvision-ai-surveillance/
 ├── project/                     # Main production app and backend
 │   ├── app.py                   # Streamlit dashboard
 │   ├── api_server.py            # FastAPI API
@@ -223,4 +223,3 @@ Suggested GitHub repository description and topics are documented in [`docs/GITH
 - mall and station monitoring
 - restricted-zone weapon alerting
 - incident review and post-event analysis
-
